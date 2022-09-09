@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nikolai Rusev</h1>
 
 # 💫 About Me:
-🔭 I’m working on graduating SoftUni.<br>🌱 I’m currently learning mainly JavaScript with HTML & CSS<br>💬 Ask me about anything.<br>
+🔭 I’m working on graduating SoftUni.<br>🌱 I’m currently learning mainly JavaScript with HTML & CSS.<br>💬 Ask me about anything.<br>
 
 
 ## 🌐 Socials:
